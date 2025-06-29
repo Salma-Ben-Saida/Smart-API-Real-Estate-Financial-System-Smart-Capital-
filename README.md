@@ -11,4 +11,5 @@ Backend API Routing
 The main backend logic and API routing are handled in back_end/main.py.
 This file serves as the entry point for the FastAPI application, defining all core routes and backend functionality.
 
+📄 [View Functional Specification (PDF)](Functional_Specification.pdf)
 
